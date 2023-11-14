@@ -1,11 +1,13 @@
 Hoy vamos a usar un Sistema de Información Geográfica, a modo de ejemplo, para tener una primera experiencia de trabajo con este tipo de herramientas.
 
-Se les provee de los siguientes archivos: 
+Se les provee de los siguientes archivos:
+
 [![[Calles.zip]]](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/Calles.zip)
 
 [![[Cartografia/Adjuntos/Capitales.zip]]](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/Pasted%20image%2020231114192717.png)
 
 [![[Cartografia/Adjuntos/MAPA PAIS.rar]]](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/MAPA%20PAIS.rar)
+
 Descargamos los archivos y vamos al programa:
 
 [![[Qgislogo.png]]](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/Qgislogo.png?raw=true)
