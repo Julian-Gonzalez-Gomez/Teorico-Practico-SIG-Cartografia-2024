@@ -18,7 +18,7 @@ Qgis, es un Sistema de información Geográfica de Uso libre. Funciona con los t
 ---
 3) Marquemos La Plata con un punto
 	Para esto, elijo la capa puntos, activo la edición en el lápiz amarillo y luego voy a crear punto.
-					A)![[Pasted image 20231114192717.png]]
+					A)![[Adjuntos/Pasted image 20231114192717.png]]
 					 B)![[Pasted image 20231114192738.png]]
 ---
 4) El programa me pide datos, que se cargaran a la tabla como vimos previamente. 
