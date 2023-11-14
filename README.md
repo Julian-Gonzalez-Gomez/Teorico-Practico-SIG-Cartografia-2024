@@ -2,15 +2,15 @@ Hoy vamos a usar un Sistema de Información Geográfica, a modo de ejemplo, para
 
 Se les provee de los siguientes archivos:
 
-[![[Calles.zip]]](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/Calles.zip)
+[Calles.zip](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/Calles.zip)
 
-[![[Cartografia/Adjuntos/Capitales.zip]]](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/Pasted%20image%2020231114192717.png)
+[Capitales.zip](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/Capitales.zip)
 
-[![[Cartografia/Adjuntos/MAPA PAIS.rar]]](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/MAPA%20PAIS.rar)
+[MAPA PAIS.rar](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/MAPA%20PAIS.rar)
 
 Descargamos los archivos y vamos al programa:
 
-[![[Qgislogo.png]]](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/Qgislogo.png?raw=true)
+![image](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/assets/147849781/a564f078-980a-4774-8d79-fe370334c8dd)
 
 Qgis, es un Sistema de información Geográfica de Uso libre. Funciona con los tipos de archivos que vimos anteriormente en el teórico y los archivos que ya descargaron.
 
@@ -20,8 +20,14 @@ Qgis, es un Sistema de información Geográfica de Uso libre. Funciona con los t
 ---
 3) Marquemos La Plata con un punto
 	Para esto, elijo la capa puntos, activo la edición en el lápiz amarillo y luego voy a crear punto.
-					A)[![[Adjuntos/Pasted image 20231114192717.png]]](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/Pasted%20image%2020231114192717.png?raw=true)
-					 B)[![[Pasted image 20231114192738.png]]](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/Pasted%20image%2020231114192738.png?raw=true)
+
+A)
+![image](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/assets/147849781/24e69ec6-11bb-463b-879e-1b7edee1d59c)
+
+
+B)
+![image](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/assets/147849781/4b451909-caf3-4701-95c2-0ed1468aa567)
+
 ---
 4) El programa me pide datos, que se cargaran a la tabla como vimos previamente. 
 										A) Agrego el Nombre "La Plata"![[Pasted image 20231114192932.png]]
