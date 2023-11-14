@@ -3,7 +3,7 @@ Hoy vamos a usar un Sistema de Información Geográfica, a modo de ejemplo, para
 Se les provee de los siguientes archivos: 
 ![[Calles.zip]]
 
-![[Cartografia/Adjuntos/Capitales.zip]]
+[![[Cartografia/Adjuntos/Capitales.zip]]](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/Pasted%20image%2020231114192717.png)
 
 ![[Cartografia/Adjuntos/MAPA PAIS.rar]]
 Descargamos los archivos y vamos al programa:
