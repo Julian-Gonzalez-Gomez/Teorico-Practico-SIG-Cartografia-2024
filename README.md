@@ -1,6 +1,8 @@
 # Teorico-Practico SIG Cartografia-2024
 #### Julian Gonzalez Gomez - Adscripto de Catedra
 
+---
+
 Hoy vamos a usar un Sistema de Información Geográfica, a modo de ejemplo, para tener una primera experiencia de trabajo con este tipo de herramientas.
 
 Se les provee de los siguientes archivos:
