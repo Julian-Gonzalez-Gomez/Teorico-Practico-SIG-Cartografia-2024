@@ -13,7 +13,7 @@ Vamos a usar los siguientes archivos:
 
 [MAPA PAIS.zip](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/MAPA%20PAIS.zip)
 
-Y la siguiente poresentacion: 
+Y la siguiente presentacion: 
 
 [Añadir un poco de texto.pdf](https://github.com/user-attachments/files/15753932/Anadir.un.poco.de.texto.pdf)
 
