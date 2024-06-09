@@ -15,5 +15,5 @@ Vamos a usar los siguientes archivos:
 
 Y la siguiente presentacion: 
 
-[Añadir un poco de texto.pdf](https://github.com/user-attachments/files/15753932/Anadir.un.poco.de.texto.pdf)
+[Presentacion](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/presentacion%20sig.pdf)
 
