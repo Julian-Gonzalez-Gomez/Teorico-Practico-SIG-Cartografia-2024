@@ -15,5 +15,5 @@ Vamos a usar los siguientes archivos:
 
 Y la siguiente presentacion: 
 
-[Presentacion](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/presentacion%20sig.pdf)
+[Presentacion](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/Presentacion%20sig.pdf)
 
