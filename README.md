@@ -11,7 +11,7 @@ Vamos a usar los siguientes archivos:
 
 [Capitales.zip](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/Capitales.zip)
 
-[MAPA PAIS.rar](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/MAPA%20PAIS.rar)
+[MAPA PAIS.zip](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/MAPA%20PAIS.zip)
 
 Y la siguiente poresentacion: 
 
