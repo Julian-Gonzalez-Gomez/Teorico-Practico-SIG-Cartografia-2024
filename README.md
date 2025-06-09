@@ -7,11 +7,7 @@ Hoy vamos a aprender sobre Sistemas de Informacion Geografica, usando Qgis, un g
 
 Vamos a usar los siguientes archivos:
 
-[Calles.zip](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/Calles.zip)
-
-[Capitales.zip](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/Capitales.zip)
-
-[MAPA PAIS.zip](https://github.com/Julian-Gonzalez-Gomez/Te-rico-Practico-SIG-Cartograf-a-2024/blob/main/Adjuntos/MAPA%20PAIS.zip)
+[Ejercicio SIG.zip](https://github.com/Julian-Gonzalez-Gomez/Teorico-Practico-SIG-Cartografia-2024/blob/main/Ejercicio%20SIG.zip)
 
 Y la siguiente presentacion: 
 
